@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Kotowaza Web",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8765"],
+      "port": 8765
+    },
+    {
+      "name": "Kotowaza App",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["kotowaza_app.py"],
+      "port": 0
+    },
+    {
+      "name": "Startup Register",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["startup_register.py", "status"],
+      "port": 0
+    }
+  ]
+}

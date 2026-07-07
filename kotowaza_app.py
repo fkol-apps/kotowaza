@@ -736,6 +736,515 @@ PROVERBS = [
     {"text": "རྒྱལ་ཁམས་ཀྱི་དགའ་སྐྱིད་ནི་མི་མང་གི་དགའ་སྐྱིད་ཡིན།",
      "meaning": "国の幸福は国民の幸福にある。GNH（国民総幸福量）の精神",
      "country": "ブータン", "flag": "BT"},
+
+    # ─── 日本（追加）────────────────────────
+    {"text": "虎穴に入らずんば虎子を得ず",
+     "meaning": "危険を冒さなければ、大きな成果は得られない",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "猿も木から落ちる",
+     "meaning": "どんな名人でも失敗することがある。驕らず謙虚でいよ",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "花より団子",
+     "meaning": "風情よりも実利を好む。見た目より中身が大切",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "知らぬが仏",
+     "meaning": "知らないでいる方が、かえって穏やかでいられることがある",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "門前の小僧習わぬ経を読む",
+     "meaning": "日常的に触れていれば、自然と身につくことがある",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "一石二鳥",
+     "meaning": "一つの行動で二つの利益を得る",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "棚からぼた餅",
+     "meaning": "思いがけない幸運が突然やってくること",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "目は口ほどにものを言う",
+     "meaning": "目は言葉と同じくらい多くのことを伝える",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "身から出た錆",
+     "meaning": "自分の行いが招いた悪い結果は、自分で引き受けるしかない",
+     "country": "日本", "flag": "JP"},
+
+    # ─── 中国（追加）────────────────────────
+    {"text": "一分耕耘，一分收获",
+     "meaning": "耕した分だけ収穫できる。努力した分だけ結果が出る",
+     "country": "中国", "flag": "CN"},
+
+    {"text": "三人行，必有我师焉",
+     "meaning": "三人旅をすれば、必ず自分の師となる人がいる",
+     "country": "中国（孔子）", "flag": "CN"},
+
+    {"text": "欲速则不达",
+     "meaning": "急ぎすぎると目標に達しない。焦りは禁物",
+     "country": "中国", "flag": "CN"},
+
+    {"text": "工欲善其事，必先利其器",
+     "meaning": "仕事をうまくやろうとすれば、まず道具を整えよ。準備が大切",
+     "country": "中国", "flag": "CN"},
+
+    {"text": "吃一堑，长一智",
+     "meaning": "一度失敗すれば、一つ賢くなる。失敗から学べ",
+     "country": "中国", "flag": "CN"},
+
+    # ─── 韓国（追加）────────────────────────
+    {"text": "하늘이 무너져도 솟아날 구멍이 있다",
+     "meaning": "天が崩れても逃げ穴がある。どんな絶望的な状況にも必ず活路がある",
+     "country": "韓国", "flag": "KR"},
+
+    {"text": "공든 탑이 무너지랴",
+     "meaning": "努力して築いた塔は崩れない。誠実な努力は必ず報われる",
+     "country": "韓国", "flag": "KR"},
+
+    {"text": "백지장도 맞들면 낫다",
+     "meaning": "一枚の紙も二人で持てば楽になる。協力の大切さ",
+     "country": "韓国", "flag": "KR"},
+
+    {"text": "말이 씨가 된다",
+     "meaning": "言葉は種になる。口に出したことは実現することがある",
+     "country": "韓国", "flag": "KR"},
+
+    # ─── ブラジル／ポルトガル（追加）──────────
+    {"text": "A pressa é inimiga da perfeição",
+     "meaning": "急ぎは完璧の敵。焦ると仕事が雑になる",
+     "country": "ブラジル", "flag": "BR"},
+
+    {"text": "Quem tem boca vai a Roma",
+     "meaning": "口のある者はローマへも行ける。聞くことを恐れるな",
+     "country": "ポルトガル", "flag": "PT"},
+
+    {"text": "Água mole em pedra dura tanto bate até que fura",
+     "meaning": "柔らかい水でも硬い岩に打ち続ければ穴が開く。継続の力",
+     "country": "ブラジル", "flag": "BR"},
+
+    # ─── スペイン／ラテンアメリカ（追加）────────
+    {"text": "No se ganó Zamora en una hora",
+     "meaning": "サモラは一時間で征服されなかった。大きなことは時間がかかる",
+     "country": "スペイン", "flag": "ES"},
+
+    {"text": "A caballo regalado no le mires el diente",
+     "meaning": "もらった馬の歯を見るな。贈り物に文句を言うな",
+     "country": "スペイン", "flag": "ES"},
+
+    {"text": "Dime con quién andas y te diré quién eres",
+     "meaning": "誰と歩くかを言えば、あなたが誰かわかる。付き合う人で人柄がわかる",
+     "country": "スペイン", "flag": "ES"},
+
+    {"text": "Del dicho al hecho hay un gran trecho",
+     "meaning": "言うことと行うことの間には大きな隔たりがある",
+     "country": "メキシコ", "flag": "MX"},
+
+    {"text": "Pueblo unido jamás será vencido",
+     "meaning": "団結した民は決して征服されない",
+     "country": "チリ", "flag": "CL"},
+
+    # ─── アフリカ（追加）────────────────────
+    {"text": "Sticks in a bundle are unbreakable",
+     "meaning": "束になった枝は折れない。団結の力は偉大だ",
+     "country": "ケニア", "flag": "KE"},
+
+    {"text": "A child who is not embraced by the village\nwill burn it down to feel its warmth",
+     "meaning": "村に受け入れられない子供は温もりを求めて村を燃やす。社会の包容力の大切さ",
+     "country": "アフリカ", "flag": "NG"},
+
+    {"text": "Until the lion learns to write,\nevery story will glorify the hunter",
+     "meaning": "ライオンが書くことを学ぶまで、すべての物語はハンターを称える。語る者が歴史を作る",
+     "country": "アフリカ", "flag": "NG"},
+
+    {"text": "Do not look where you fell, but where you slipped",
+     "meaning": "倒れた場所ではなく、滑った場所を見よ。失敗の原因を探れ",
+     "country": "ガーナ", "flag": "GH"},
+
+    {"text": "Rain does not fall on one roof alone",
+     "meaning": "雨は一つの屋根だけに降るのではない。喜びも苦しみも分かち合うもの",
+     "country": "カメルーン", "flag": "CM"},
+
+    {"text": "However long the night, the dawn will break",
+     "meaning": "夜がどれほど長くても、夜明けは来る",
+     "country": "マリ", "flag": "ML"},
+
+    # ─── 中東・南アジア（追加）──────────────
+    {"text": "يد واحدة لا تصفق",
+     "meaning": "片手では拍手できない。何事も協力が必要",
+     "country": "アラビア", "flag": "AE"},
+
+    {"text": "إذا أردت أن تعرف رجلا فانظر إلى صديقه",
+     "meaning": "人を知りたければ、その友人を見よ。友人は人格を映す鏡",
+     "country": "アラビア", "flag": "AE"},
+
+    {"text": "من عاشر القوم أربعين يوما صار منهم",
+     "meaning": "四十日間人々と共にいれば、その一員になる。環境が人を形成する",
+     "country": "モロッコ", "flag": "MA"},
+
+    {"text": "آینه عیب رو نشان می‌دهد",
+     "meaning": "鏡は欠点を映す。真実は時に耳の痛いことを告げる",
+     "country": "ペルシャ（イラン）", "flag": "IR"},
+
+    {"text": "جو بوئی، همان دروی",
+     "meaning": "蒔いた種を刈り取る。自分の行いは自分に返ってくる",
+     "country": "ペルシャ（イラン）", "flag": "IR"},
+
+    {"text": "जल्दी का काम शैतान का",
+     "meaning": "急いでする仕事は悪魔のもの。焦りは失敗を招く",
+     "country": "インド（ヒンディー語）", "flag": "IN"},
+
+    {"text": "अकेला चना भाड़ नहीं फोड़ सकता",
+     "meaning": "一粒のひよこ豆では鍋は割れない。一人の力には限界がある",
+     "country": "インド（ヒンディー語）", "flag": "IN"},
+
+    # ─── 東南アジア（追加）──────────────────
+    {"text": "น้ำเย็นใจ",
+     "meaning": "心を冷たい水のように保て。冷静さを失うな",
+     "country": "タイ", "flag": "TH"},
+
+    {"text": "Malakí man ang dagat, maliliit pa rin ang alon",
+     "meaning": "海がどれほど大きくても、波は小さくなることがある。謙虚さを忘れるな",
+     "country": "フィリピン", "flag": "PH"},
+
+    {"text": "Adat bersendi syarak, syarak bersendi kitabullah",
+     "meaning": "慣習は宗教的戒律に根ざし、戒律は聖典に根ざす。根を大切に",
+     "country": "マレーシア", "flag": "MY"},
+
+    {"text": "Di mana bumi dipijak, di situ langit dijunjung",
+     "meaning": "踏みしめる地に、天を仰げ。その土地を尊重せよ",
+     "country": "インドネシア", "flag": "ID"},
+
+    {"text": "Ving gạo ba năm được bữa cơm",
+     "meaning": "三年米をつけば一膳の飯になる。積み重ねの大切さ",
+     "country": "ベトナム", "flag": "VN"},
+
+    # ─── 北欧（追加）────────────────────────
+    {"text": "Sisu",
+     "meaning": "どんな困難にも諦めずに立ち向かう強靭な意志と忍耐力（フィンランド特有の精神）",
+     "country": "フィンランド", "flag": "FI"},
+
+    {"text": "Man ska inte kasta sten i glashus",
+     "meaning": "ガラスの家に石を投げるな。自分の欠点を棚に上げて人を批判するな",
+     "country": "スウェーデン", "flag": "SE"},
+
+    {"text": "Livet er ikke en dans på roser",
+     "meaning": "人生はバラの上でのダンスではない。人生は楽なものではない",
+     "country": "デンマーク", "flag": "DK"},
+
+    # ─── 東欧（追加）────────────────────────
+    {"text": "Не рубят лес, так и щепки не летят",
+     "meaning": "木を切らなければ木くずは飛ばない。何もしなければリスクもない",
+     "country": "ロシア", "flag": "RU"},
+
+    {"text": "За двумя зайцами погонишься — ни одного не поймаешь",
+     "meaning": "二匹の兎を追う者は一匹も捕まえられない。欲張ると何も得られない",
+     "country": "ロシア", "flag": "RU"},
+
+    {"text": "Не место красит человека, а человек место",
+     "meaning": "場所が人を飾るのではなく、人が場所を飾る。人の在り方が大切",
+     "country": "ロシア", "flag": "RU"},
+
+    {"text": "Добре тому, хто в своїй хаті",
+     "meaning": "自分の家にいる者は幸せ。我が家が一番",
+     "country": "ウクライナ", "flag": "UA"},
+
+    {"text": "Ahol nincs meg a régi, ott az új sem terem",
+     "meaning": "古いものがなければ、新しいものも生まれない。伝統と革新",
+     "country": "ハンガリー", "flag": "HU"},
+
+    # ─── 中央アジア（追加）──────────────────
+    {"text": "Mehman xudoning mehmonídir",
+     "meaning": "客は神の客である。来訪者を手厚くもてなせ",
+     "country": "ウズベキスタン", "flag": "UZ"},
+
+    {"text": "Bir qo'lning ovozi chiqmaydi",
+     "meaning": "一本の手では音は出ない。協力してこそ声が届く",
+     "country": "ウズベキスタン", "flag": "UZ"},
+
+    {"text": "Ата жұрт — алтын бесік",
+     "meaning": "父祖の地は黄金の揺りかご。故郷は何より大切",
+     "country": "カザフスタン", "flag": "KZ"},
+
+    # ─── オセアニア（追加）──────────────────
+    {"text": "Ehara tāku toa i te toa takitahi, engari he toa takimano",
+     "meaning": "私の強さは一人の戦士の強さではなく、千人の戦士の強さだ",
+     "country": "マオリ（ニュージーランド）", "flag": "NZ"},
+
+    {"text": "Slow down and the thing you are chasing\nwill come around and catch you",
+     "meaning": "ゆっくり進めば、追っているものがあなたを追いかけてくる",
+     "country": "オーストラリア（アボリジニ）", "flag": "AU"},
+
+    # ─── 北米（追加）────────────────────────
+    {"text": "When you were born, you cried and the world rejoiced.\nLive your life so that when you die,\nthe world cries and you rejoice.",
+     "meaning": "生まれた時、あなたは泣き世界は喜んだ。死ぬ時には世界が泣きあなたが喜ぶような人生を生きよ",
+     "country": "ネイティブ・アメリカン", "flag": "US"},
+
+    {"text": "Hold on to what is good, even if it is a handful of earth",
+     "meaning": "良いものはたとえ一握りの土でも大切に持ち続けよ",
+     "country": "ネイティブ・アメリカン（プエブロ族）", "flag": "US"},
+
+    # ─── 日本（さらに追加）────────────────────
+    {"text": "情けは人の為ならず",
+     "meaning": "人に親切にすることは、巡り巡って自分のためになる",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "井の中の蛙大海を知らず",
+     "meaning": "狭い世界しか知らず、広い世界を知らないこと。常に視野を広げよ",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "一期一会",
+     "meaning": "一生に一度の出会い。今この瞬間を大切にせよ",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "百聞は一見に如かず",
+     "meaning": "百回聞くよりも、一度実際に見た方が確かだ",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "案ずるより産むが易し",
+     "meaning": "あれこれ心配するより、実際にやってみた方が意外と簡単なもの",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "初心忘るべからず",
+     "meaning": "何事も始めた頃の謙虚な気持ちや情熱を忘れてはいけない",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "光陰矢の如し",
+     "meaning": "時間はあっという間に過ぎ去る。大切に使え",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "好きこそものの上手なれ",
+     "meaning": "好きなことに情熱を持って取り組むと、自然と上達する",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "二兎を追う者は一兎をも得ず",
+     "meaning": "二つのことを同時に追うと、どちらも得られない",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "雨降って地固まる",
+     "meaning": "争いや困難があった後は、かえって関係や物事が安定する",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "出る杭は打たれる",
+     "meaning": "目立つ人や優れた才能を持つ人は、妬まれ妨害されやすい",
+     "country": "日本", "flag": "JP"},
+
+    {"text": "柳に雪折れなし",
+     "meaning": "柔らかく柔軟であることが、かえって強さとなる",
+     "country": "日本", "flag": "JP"},
+
+    # ─── 古代ローマ（ラテン語）────────────────
+    {"text": "Carpe diem",
+     "meaning": "その日を摘め。今この瞬間を大切に生きよ",
+     "country": "古代ローマ（ラテン語）", "flag": "IT"},
+
+    {"text": "Per aspera ad astra",
+     "meaning": "困難を通じて星へ。苦労の果てに栄光がある",
+     "country": "古代ローマ（ラテン語）", "flag": "IT"},
+
+    {"text": "Tempus fugit",
+     "meaning": "時は飛ぶ。時間はあっという間に過ぎ去る",
+     "country": "古代ローマ（ラテン語）", "flag": "IT"},
+
+    {"text": "Dum spiro, spero",
+     "meaning": "息がある限り、希望がある。生きている限りあきらめるな",
+     "country": "古代ローマ（ラテン語）", "flag": "IT"},
+
+    {"text": "Fortes fortuna adiuvat",
+     "meaning": "運は勇者を助ける。勇気ある行動が幸運を呼ぶ",
+     "country": "古代ローマ（ラテン語）", "flag": "IT"},
+
+    {"text": "In vino veritas",
+     "meaning": "ワインの中に真実がある。酒が入ると本音が出る",
+     "country": "古代ローマ（ラテン語）", "flag": "IT"},
+
+    {"text": "Amor vincit omnia",
+     "meaning": "愛はすべてを征服する",
+     "country": "古代ローマ（ラテン語）", "flag": "IT"},
+
+    # ─── 古代ギリシャ ──────────────────────────
+    {"text": "Γνῶθι σεαυτόν",
+     "meaning": "汝自身を知れ。自己認識が知恵の始まり（デルポイの神託）",
+     "country": "古代ギリシャ", "flag": "GR"},
+
+    {"text": "Μηδέν ἄγαν",
+     "meaning": "何事もほどほどに。過ぎたるは猶及ばざるが如し（デルポイの神託）",
+     "country": "古代ギリシャ", "flag": "GR"},
+
+    {"text": "Πᾶν μέτρον ἄριστον",
+     "meaning": "すべてにおいて中庸が最善である",
+     "country": "古代ギリシャ", "flag": "GR"},
+
+    # ─── 北欧神話（ハーヴァマール）────────────
+    {"text": "Deyr fé, deyja frændr, deyr sjálfr it sama;\nen orðstírr deyr aldregi\nhveim er sér góðan getr.",
+     "meaning": "牛は死に、親族は死に、あなた自身も死ぬ。しかし決して死なぬものがある――亡き人の功績の名声だ",
+     "country": "北欧（ハーヴァマール）", "flag": "IS"},
+
+    # ─── 中国（さらに追加）────────────────────
+    {"text": "己所不欲，勿施于人",
+     "meaning": "自分がされたくないことは人にするな。思いやりの黄金律（孔子）",
+     "country": "中国（孔子）", "flag": "CN"},
+
+    {"text": "民以食为天",
+     "meaning": "民は食をもって天とする。食は人の最も根本的な必要",
+     "country": "中国", "flag": "CN"},
+
+    {"text": "天生我材必有用",
+     "meaning": "天が私を生んだのは必ず用途がある。自分の才能を信じよ（李白）",
+     "country": "中国", "flag": "CN"},
+
+    # ─── 韓国（さらに追加）────────────────────
+    {"text": "급할수록 돌아가라",
+     "meaning": "急ぐときほど回り道をせよ。焦りは禁物",
+     "country": "韓国", "flag": "KR"},
+
+    {"text": "지성이면 감천",
+     "meaning": "真心があれば天も動く。誠実な努力は必ず報われる",
+     "country": "韓国", "flag": "KR"},
+
+    # ─── アラビア（さらに追加）────────────────
+    {"text": "الوقت كالسيف إن لم تقطعه قطعك",
+     "meaning": "時間は剣のようなもの。使いこなさなければ、時間に使われる",
+     "country": "アラビア", "flag": "AE"},
+
+    {"text": "من طلب العلا سهر الليالي",
+     "meaning": "高みを目指す者は夜も眠れない。偉業には相応の努力がいる",
+     "country": "アラビア", "flag": "AE"},
+
+    # ─── イスラエル（追加）────────────────────
+    {"text": "גם זה יעבור",
+     "meaning": "これもまた過ぎ去る。困難も喜びも永遠ではない",
+     "country": "イスラエル（ヘブライ語）", "flag": "IL"},
+
+    # ─── トルコ（さらに追加）──────────────────
+    {"text": "Söz gümüştür, sükût altındır",
+     "meaning": "言葉は銀、沈黙は金。語るよりも黙ることが時に価値がある",
+     "country": "トルコ", "flag": "TR"},
+
+    # ─── ベトナム（さらに追加）────────────────
+    {"text": "Uống nước nhớ nguồn",
+     "meaning": "水を飲む時は源を思え。恩恵を受けた人への感謝を忘れるな",
+     "country": "ベトナム", "flag": "VN"},
+
+    # ─── ハワイ ────────────────────────────────
+    {"text": "I ka ʻōlelo nō ke ola, i ka ʻōlelo nō ka make",
+     "meaning": "言葉に命があり、言葉に死がある。言葉の力を大切に",
+     "country": "ハワイ（アメリカ）", "flag": "US"},
+
+    {"text": "ʻAʻohe hana nui ke alu ʻia",
+     "meaning": "協力すれば大きな仕事も難しくない",
+     "country": "ハワイ（アメリカ）", "flag": "US"},
+
+    # ─── サモア ────────────────────────────────
+    {"text": "E au le inailau a tamaitai",
+     "meaning": "女性の知恵は海のように広く深い",
+     "country": "サモア", "flag": "WS"},
+
+    # ─── コスタリカ ────────────────────────────
+    {"text": "Pura vida",
+     "meaning": "純粋な人生。シンプルに感謝して生きるコスタリカ人の精神",
+     "country": "コスタリカ", "flag": "CR"},
+
+    # ─── トリニダード・トバゴ ──────────────────
+    {"text": "Every mango have its season",
+     "meaning": "すべてのマンゴーには季節がある。万物には適切な時がある",
+     "country": "トリニダード・トバゴ", "flag": "TT"},
+
+    # ─── バルバドス ────────────────────────────
+    {"text": "De higher the monkey climb,\nde more he expose",
+     "meaning": "猿が高く登れば登るほど、より多くさらされる。地位が高いほど批判も増える",
+     "country": "バルバドス", "flag": "BB"},
+
+    # ─── ボリビア ──────────────────────────────
+    {"text": "Poco a poco se hace lejos",
+     "meaning": "少しずつ積み重ねれば遠くへ行ける",
+     "country": "ボリビア", "flag": "BO"},
+
+    # ─── ウルグアイ ────────────────────────────
+    {"text": "A buen entendedor, pocas palabras bastan",
+     "meaning": "聡明な者には少ない言葉で十分。真に理解ある人への短い言葉は雄弁",
+     "country": "ウルグアイ", "flag": "UY"},
+
+    # ─── アルバニア ────────────────────────────
+    {"text": "Kush nuk punon, nuk ha",
+     "meaning": "働かない者は食べてはならない",
+     "country": "アルバニア", "flag": "AL"},
+
+    {"text": "Gjuha shpatin të pret",
+     "meaning": "舌は剣より鋭く切る。言葉の力を軽んじるな",
+     "country": "アルバニア", "flag": "AL"},
+
+    # ─── スロベニア ────────────────────────────
+    {"text": "Bolje preprečiti kakor zdraviti",
+     "meaning": "治療より予防の方が良い",
+     "country": "スロベニア", "flag": "SI"},
+
+    # ─── ベラルーシ ────────────────────────────
+    {"text": "Зямля без вады, як сям'я без маці",
+     "meaning": "水なき大地は母なき家族のよう。支えあう存在の大切さ",
+     "country": "ベラルーシ", "flag": "BY"},
+
+    # ─── ルワンダ ──────────────────────────────
+    {"text": "Ubumwe ni nguvu",
+     "meaning": "団結は力なり",
+     "country": "ルワンダ", "flag": "RW"},
+
+    # ─── コンゴ民主共和国 ──────────────────────
+    {"text": "Maboko mibale ebendi moto",
+     "meaning": "両手が体を洗う。互いに助け合え",
+     "country": "コンゴ民主共和国（リンガラ語）", "flag": "CD"},
+
+    # ─── ソマリア ──────────────────────────────
+    {"text": "Aqoon la'aani waa iftiin la'aan",
+     "meaning": "知識のない者は光のない者。学びこそが道を照らす",
+     "country": "ソマリア", "flag": "SO"},
+
+    # ─── ハウサ語（ナイジェリア・ニジェール）──────
+    {"text": "Hankali shi ne mabudin arziki",
+     "meaning": "知恵は豊かさの鍵",
+     "country": "ハウサ語（ナイジェリア）", "flag": "NG"},
+
+    # ─── イグボ語（ナイジェリア）──────────────
+    {"text": "Onye wetara oji wetara ndụ",
+     "meaning": "コラナッツを持ってきた者は命をもたらした。分かち合いが生命を与える",
+     "country": "イグボ語（ナイジェリア）", "flag": "NG"},
+
+    # ─── パプアニューギニア ────────────────────
+    {"text": "Wanbel",
+     "meaning": "心を一つにすること。調和と一致の精神（トク・ピシン語）",
+     "country": "パプアニューギニア", "flag": "PG"},
+
+    # ─── キルギスタン ──────────────────────────
+    {"text": "Жердин кенчи — адамда",
+     "meaning": "大地の宝は人にある。人こそが最大の財産",
+     "country": "キルギスタン", "flag": "KG"},
+
+    # ─── タジキスタン ──────────────────────────
+    {"text": "Дӯст он аст, ки дар рӯзи сахт ёр шавад",
+     "meaning": "友とは困難な日に助けてくれる人",
+     "country": "タジキスタン", "flag": "TJ"},
+
+    # ─── バングラデシュ ────────────────────────
+    {"text": "অভাব অভিযোগ নেই যার, সুখী সে সংসার",
+     "meaning": "不満も不平もない家庭こそ幸せな家庭",
+     "country": "バングラデシュ", "flag": "BD"},
+
+    # ─── ラオス ────────────────────────────────
+    {"text": "ຄວາມອົດທົນຄືຄວາມສຳເລັດ",
+     "meaning": "忍耐こそが成功への道",
+     "country": "ラオス", "flag": "LA"},
+
+    # ─── ウェールズ（追加）────────────────────
+    {"text": "Nid da lle gellir gwell",
+     "meaning": "より良くなれる場所に甘んじるな。常に成長を求めよ",
+     "country": "ウェールズ", "flag": "GB"},
+
+    # ─── カタルーニャ ──────────────────────────
+    {"text": "Qui no s'arrisca, no pisca",
+     "meaning": "リスクを取らない者は何も得られない",
+     "country": "カタルーニャ（スペイン）", "flag": "ES"},
 ]
 
 # ==========================================
